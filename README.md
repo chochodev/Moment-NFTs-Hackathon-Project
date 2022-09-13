@@ -1,4 +1,4 @@
-# <a href="https://moments-nft.vercel.app">Moments.NFT</a>
+# <a>Moments.NFT</a>
 
 ### Mint your favourite moments to make them eternal 
 
