@@ -1,3 +1,4 @@
+const successConfetti = require("./public/successConfetti.svg")
 module.exports = {
   content: [
     "./pages/**/*.{js,ts,jsx,tsx}",
