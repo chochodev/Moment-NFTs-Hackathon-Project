@@ -25,7 +25,7 @@ export default function Home() {
   //Redirect to create NFT -- if authenticated
   useEffect(() => {
     if (isAuthenticated) {
-      router.push('/createnft')
+      router.push('/createnft');
     }
 
   }, [isAuthenticated]);
